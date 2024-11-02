@@ -1,0 +1,1 @@
+This is the first django project repo called LibraryProject.
